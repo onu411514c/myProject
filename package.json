@@ -26,7 +26,7 @@
     "ts-helpers": "^1.1.1",
     "zone.js": "^0.7.2",
     "node-sass": "4.7.2",
-    "ag-grid": "16.0.0"    
+    "ag-grid": "16.0.0"
   },
   "devDependencies": {
     "@angular/cli": "^1.6.6",
